@@ -1,6 +1,6 @@
 # "Тестирование API"
 ## qa.demoshopping.ru
-Создаю коллекцию для "Интернет-магазина" <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a> 
+Создаю коллекцию Products, Users, Cart, Orders и Payment для "Интернет-магазина" <a href="https://qa.demoshopping.ru/">qa.demoshopping.ru</a>, использую <a href="https://qa.demoshopping.ru/api-docs/">документацию</a> в Swagger. 
 #### [Первая коллекция "Products" (Postman API)](https://www.postman.com/nosovertka/workspace/qa-demoshopping-stan-tokarev/collection/40891723-f58958dc-7d08-42f1-a850-9cb0ad5205cf?action=share&creator=40891723&active-environment=40891723-98aef70a-e96a-4a0f-9fa3-aaec06181669)
 
 #### [Тестовый прогон скриптов коллекции "Products" в Postman (json)](https://github.com/StanTokarev/api/blob/main/Stan%20Tokarev%20Test%20Run%20for%20Scripts%20in%20Products.json)
